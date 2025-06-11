@@ -1,5 +1,6 @@
 # Dataanalysis_Projects
 Customer Churn Prediction (custchurnpredict.py + WA_Fn-UseC_-Telco-Customer-Churn.csv)
+
 Overview:
 This project focuses on predicting customer churn in the telecom industry using a structured dataset. It uses machine learning models to identify customers who are likely to leave the service, helping businesses improve retention strategies.
 
@@ -24,6 +25,7 @@ Use Case:
 Business decision-makers can use this model to identify at-risk customers and take proactive steps to retain them.
 
 Sales Data Analysis (saledata.py + sales_data.csv)
+
 Overview:
 This project is designed to analyze sales data to uncover trends, patterns, and business insights. It helps organizations understand sales performance across products, regions, or time periods.
 
